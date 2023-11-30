@@ -7,8 +7,9 @@ title: "새로운 포스트 연습."
 
 이전에 Python+Django(약간의 CSS)를 이용해서 블로그를 만들어본 적이 있긴 했었으나, 이런 방법으로도 나만의 페이지를 만들 수 있다는 것을 알아서 해볼까 하네요.
 
-![Hub,Swtich To Server](C:\workspace\workspace-git\luvchipmunk-github-io\luvchipmunk.github.io\images\2023-11-27-new-post-for-new-page\Hub,Swtich To Server.png)
+![Mac Address](C:\workspace\workspace-git\luvchipmunk-github-io\luvchipmunk.github.io\images\2023-11-27-new-post-for-new-page\Mac Address.png)
 
 이미지 올리는 방법도 테스트 해본다.
 
 예전에 네트워크 공부를 할 때, draw.io를 이용해서 그렸던 사진을 인용해본다.
+
