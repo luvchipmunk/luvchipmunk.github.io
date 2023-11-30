@@ -9,7 +9,7 @@ title: "새로운 포스트 연습."
 
 ![Mac Address](..\images\2023-11-27-new-post-for-new-page\Mac Address.png)
 
-![Computer with binary](C:\workspace\workspace-git\luvchipmunk-github-io\luvchipmunk.github.io\images\2023-11-27-new-post-for-new-page\Computer with binary.png)
+![Broadcast split by Router](./../images/2023-11-27-new-post-for-new-page/Broadcast split by Router.png)
 
 이미지 올리는 방법도 테스트 해본다.
 
