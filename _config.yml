@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "LuvChipmunk's Blog"
+title                    : "Luvchipmunk's Cloud"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "LuvChipmunk"
-description              : "Hey, this is luvchipmunk. Thanks for visiting my github page!"
+name                     : "Luvchipmunk"
+description              : "Hey, this is Luvchipmunk. Thanks for visiting my cloud!"
 url                      : "https://luvchipmunk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "Luvchipmunk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hey, I'm luvchipmunk who loves Chipmunk :)"
+  bio              : "Hey, I'm luvchipmunk who loves Chipmunk :) "
   location         : "S.Korea/Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:catndaramg@gmail.com"
+      url: "mailto:catndaramg@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://luvchipmunk.github.io/"
+      url: "https://luvchipmunk.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: 
+      url: "https://luvchipmunk.github.io/" 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -220,7 +220,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones , timezone을 설정하면 오류가 생긴다는 일부 댓글이 보여서 공백으로 냅둠(아마 default 일듯)
 
 
 # Plugins (previously gems:)
@@ -257,16 +257,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
