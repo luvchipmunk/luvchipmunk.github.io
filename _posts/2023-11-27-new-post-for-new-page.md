@@ -2,6 +2,7 @@
 layout: single
 title: "새로운 포스트 연습."
 categories: practice
+tag: [githubpages, jekyll]
 typora-root-url: ../
 ---
 
