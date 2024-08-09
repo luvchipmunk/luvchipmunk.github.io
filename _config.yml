@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/profile.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # false (default)
-words_per_minute         : 200
+words_per_minute         : 50
 comments:
   provider               : "disqus" # "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -115,7 +115,7 @@ author:
       url: "mailto:catndaramg@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://luvchipmunk.github.io/"
+      url: "https://leeward-physician-5e8.notion.site/My-info-14dd7cc9eb4c4e8d84b109cf38990924?pvs=4"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

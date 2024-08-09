@@ -27,7 +27,7 @@ ex1 ) django = “Python’s one is django”
 
 ex2 ) say = ‘“First time with python”he says.’
 
-1. 문자열 안에 넣고자하는 따옴표 바로 앞에 \(백슬래시)를 사용하자
+2. 문자열 안에 넣고자하는 따옴표 바로 앞에 \(백슬래시)를 사용하자
 
 ex ) django = ‘python\’s one is django’
 
@@ -84,7 +84,7 @@ a = 'You need python'인 경우,
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoxeXGhCSSohdPM1giRcJ2b3Z9e2cDzvzjqgwRoqRJq6L3hnFpva4T-wFcoveRWG2RArAPLWj0Cx-Y6b8o00Sh6IvqXbsjO4_yDHQVYEDN3e_3oQXBS9bUvNDNC4XTQNhAP4salgCQU5hb1NJix1UXvpY?key=4uZgYGoLnFSSd3qJBRYl8A)
 
-1. 근데 여기서 핵심은 이 방법. 슬라이싱(Slicing)기법이다.
+2. 근데 여기서 핵심은 이 방법. 슬라이싱(Slicing)기법이다.
 
 일종의 뭉텅이로 자르는 방법인듯함
 
