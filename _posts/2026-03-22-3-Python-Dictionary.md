@@ -5,6 +5,7 @@ categories: python
 tag: [githubpages, jekyll]
 typora-root-url: ../
 toc: true
+published : false
 ---
 
 ## 딕셔너리 자료형
