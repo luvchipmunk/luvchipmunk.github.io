@@ -4,6 +4,7 @@ title: "새로운 포스트 연습."
 categories: Practice
 tag: [githubpages, jekyll]
 typora-root-url: ../
+published: false
 ---
 
 # Github pages를 이용한 첫 포스팅 입니다.
