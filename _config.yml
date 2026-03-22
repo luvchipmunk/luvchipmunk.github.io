@@ -232,7 +232,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones , timezone을 설정하면 오류가 생긴다는 일부 댓글이 보여서 공백으로 냅둠(아마 default 일듯)
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones , timezone을 설정하면 오류가 생긴다는 일부 댓글이 보여서 공백으로 냅둠(아마 default 일듯)
 
 
 # Pagination with jekyll-paginate
